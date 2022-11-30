@@ -1,0 +1,271 @@
+.hyperlink-hidden-blue:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.hyperlink-hidden-white:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+.apple-background-image-0 {
+    background-image: url(https://www.apple.com/v/home/an/images/heroes/iphone-13-pro/hero_iphone13pro_avail__iy77cld0zwii_large.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.apple-background-image-1 {
+    background-image: url(https://www.apple.com/v/home/an/images/heroes/iphone-se/hero_iphonese_preorder__e4eta8trjs66_large.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.apple-background-image-2 {
+    background-image: url(https://www.apple.com/v/home/an/images/heroes/ipad-air/hero_ipadair__flhdv47anjqu_large.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    padding-top: 8rem;
+    padding-right: 40rem;
+}
+
+.apple-background-image-3 {
+    background-image: url(https://www.apple.com/v/home/an/images/promos/watch-series-7/promo_watch_lte__djeaso7ukrsm_large.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.apple-background-image-4 {
+    background-image: url(https://www.apple.com/v/home/an/images/promos/studio-display/promo_studiodisplay__b449sh436cdy_large.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.apple-background-image-5 {
+    background-image: url(https://www.apple.com/my/home/images/promos/mothers-day-2022/promo_mothersday__eddgvflf4ys2_large.jpg);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.apple-background-image-6 {
+    background-image: url(https://www.apple.com/my/home/images/promos/tv-plus-multishow-apr22/tile__cauwwcyyn9hy_large.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    padding-top: 22rem;
+}
+
+.apple-editorial {
+    height: 500px;
+}
+
+.apple-editorial-grid {
+    height: 600px;
+}
+
+.apple-editorial-grid-1 {
+    height: 600px;
+}
+
+.editorial {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo-display-medium img {
+    display: none;
+}
+
+.logo-display-small img {
+    display: none;
+}
+
+@media (max-width: 1199.98px) {
+    .apple-background-image-3 {
+        background-image: url(https://www.apple.com/v/home/an/images/promos/watch-series-7/promo_watch_lte__djeaso7ukrsm_large.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-4 {
+        background-image: url(https://www.apple.com/v/home/an/images/promos/studio-display/promo_studiodisplay__b449sh436cdy_large.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-5 {
+        background-image: url(https://www.apple.com/my/home/images/promos/mothers-day-2022/promo_mothersday__eddgvflf4ys2_large.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-6 {
+        background-image: url(https://www.apple.com/my/home/images/promos/tv-plus-multishow-apr22/tile__cauwwcyyn9hy_large.jpg);
+        background-size: cover;
+        background-position: top;
+        background-repeat: no-repeat;
+        padding-top: 20rem;
+    }
+
+    .apple-editorial-grid-1 {
+        height: 550px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .apple-background-image-0 {
+        background-image: url(https://www.apple.com/v/home/an/images/heroes/iphone-13-pro/hero_iphone13pro_avail__iy77cld0zwii_medium.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-1 {
+        background-image: url(https://www.apple.com/v/home/an/images/heroes/iphone-se/hero_iphonese_preorder__e4eta8trjs66_medium.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-2 {
+        background-image: url(https://www.apple.com/v/home/an/images/heroes/ipad-air/hero_ipadair__flhdv47anjqu_medium.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        padding-top: 0;
+        padding-right: 0;
+    }
+
+    .apple-background-image-3 {
+        background-image: url(https://www.apple.com/v/home/an/images/promos/watch-series-7/promo_watch_lte__djeaso7ukrsm_large.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-4 {
+        background-image: url(https://www.apple.com/v/home/an/images/promos/studio-display/promo_studiodisplay__b449sh436cdy_large.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-5 {
+        background-image: url(https://www.apple.com/my/home/images/promos/mothers-day-2022/promo_mothersday__eddgvflf4ys2_large.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-6 {
+        background-image: url(https://www.apple.com/my/home/images/promos/tv-plus-multishow-apr22/tile__cauwwcyyn9hy_large.jpg);
+        background-size: cover;
+        background-position: top;
+        background-repeat: no-repeat;
+        padding-top: 18rem;
+    }
+
+    .apple-editorial {
+        height: 550px;
+    }
+
+    .apple-editorial-grid {
+        height: 550px;
+    }
+
+    .apple-editorial-grid-1 {
+        height: 550px;
+    }
+
+    .logo-display-large img {
+        display: none;
+    }
+
+    .logo-display-medium img {
+        display: block;
+    }
+}
+
+
+@media (max-width: 767.98px) {
+    .apple-background-image-0 {
+        background-image: url(https://www.apple.com/v/home/an/images/heroes/iphone-13-pro/hero_iphone13pro_avail__iy77cld0zwii_small.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-1 {
+        background-image: url(https://www.apple.com/v/home/an/images/heroes/iphone-se/hero_iphonese_preorder__e4eta8trjs66_small.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-2 {
+        background-image: url(https://www.apple.com/v/home/an/images/heroes/ipad-air/hero_ipadair__flhdv47anjqu_small.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+        padding-top: 0;
+        padding-right: 0;
+    }
+
+    .apple-background-image-3 {
+        background-image: url(https://www.apple.com/v/home/an/images/promos/watch-series-7/promo_watch_lte__djeaso7ukrsm_small.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-4 {
+        background-image: url(https://www.apple.com/v/home/an/images/promos/studio-display/promo_studiodisplay__b449sh436cdy_small.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-5 {
+        background-image: url(https://www.apple.com/my/home/images/promos/mothers-day-2022/promo_mothersday__eddgvflf4ys2_small.jpg);
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+
+    .apple-background-image-6 {
+        background-image: url(https://www.apple.com/my/home/images/promos/tv-plus-multishow-apr22/tile__cauwwcyyn9hy_small.jpg);
+        background-size: cover;
+        background-position: top;
+        background-repeat: no-repeat;
+        padding-top: 10rem;
+    }
+
+    .apple-editorial-grid {
+        height: 500px;
+    }
+
+    .apple-editorial-grid-1 {
+        height: 400px;
+    }
+
+    .logo-display-large img {
+        display: none;
+    }
+
+    .logo-display-medium img {
+        display: none;
+    }
+
+    .logo-display-small img {
+        display: block;
+    }
+}
